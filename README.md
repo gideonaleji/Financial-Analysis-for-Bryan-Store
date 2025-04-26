@@ -88,7 +88,7 @@ A short video walkthrough of the dashboard insights is also available here: http
 
 ## Repository Files
 
-This repository contains the powerBI file (.pbix) that I used for this project.
+This repository contains the powerBI file (.pbix) I created, the dashboard PDF, and a screenshot of the dashboard.
 
 ## License
 
